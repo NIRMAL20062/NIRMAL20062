@@ -2,7 +2,9 @@
 - 👀 I’m interested in Artificial intelligence and Future Technologies 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Linkedin
-- 📫 How to reach me:kumar.nirmal2608@gmail.com
+- 📫 How to reach me:kumar.
+-     https://www.linkedin.com/in/aibardx2408/
+-     Email:  nirmal2608@gmail.com
 - 😄 Pronouns:He
 - ⚡ Fun fact:NIL
 
