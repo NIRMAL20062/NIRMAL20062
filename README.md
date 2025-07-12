@@ -46,7 +46,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIRMAL20062&theme=dracula)
 
-[![GitHub Snake](https://github.com/NIRMAL20062/NIRMAL20062/blob/output/github-contribution-grid-snake.svg)](https://github.com/NIRMAL20062)
+![GitHub Snake](https://raw.githubusercontent.com/NIRMAL20062/NIRMAL20062/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -75,7 +75,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bardx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:kumar.nirmal2608@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/r2GUlBuyLZ/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/r2GUlBuyLZ/\"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
   <a href="https://github.com/NIRMAL20062"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
