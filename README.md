@@ -71,6 +71,24 @@
 
 ---
 
+### 🧮 Live LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/r2GUlBuyLZ?theme=dark&font=Fira+Code&ext=contest" width="80%" />
+</p>
+
+---
+
+### 📄 Download My Resume
+
+<p align="center">
+  <a href="https://github.com/NIRMAL20062/resume/raw/main/Nirmal_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-25A5F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume" />
+  </a>
+</p>
+
+---
+
 ### 💡 Highlight Reels
 
 - 🔹 Built a **real-time AI Social Media Manager** (Content + Hashtag + Scheduler)
@@ -103,11 +121,12 @@
 
 <pre>
  ███╗   ██╗██╗██████╗ ██████╗  █████╗ ██╗     
- ████╗  ██║██║██╔══██╗██╔══██╗██╔══██╗██║     
+ ████╗  ██║██║██╔══██╗██╔══██╗██╔══██║██║     
  ██╔██╗ ██║██║██████╔╝██████╔╝███████║██║     
  ██║╚██╗██║██║██╔═══╝ ██╔═══╝ ██╔══██║██║     
  ██║ ╚████║██║██║     ██║     ██║  ██║███████╗
  ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝
+      N I R M A L - D E V - W A R R I O R     
 </pre>
 
 <p align="center">
