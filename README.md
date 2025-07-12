@@ -50,6 +50,16 @@
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [📊 AI Social Media Manager](https://github.com/NIRMAL20062/ai-social-media-manager) | Generate posts, hashtags, comments with GPT. |
+| [🧘 Wellness AI App](https://github.com/NIRMAL20062/wellness-ai) | Suggests yoga, remedies, and motivation based on your symptoms. |
+| [💹 Price Comparison Tool](https://github.com/NIRMAL20062/price-tracker) | Scrapes live data and shows graph using Flask + Chart.js |
+
+---
+
 ### 🧠 Currently Learning
 
 - ✅ Data Structures & Algorithms (Java)
@@ -79,6 +89,13 @@
 
 ---
 
+### ⏱️ Weekly Dev Breakdown (via WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📄 Download My Resume
 
 <p align="center">
@@ -89,11 +106,16 @@
 
 ---
 
-### 💡 Highlight Reels
+### ❓ FAQ
 
-- 🔹 Built a **real-time AI Social Media Manager** (Content + Hashtag + Scheduler)
-- 🔹 Scraped e-commerce prices & built price comparison dashboard using **Flask + Chart.js**
-- 🔹 Currently developing **Wellness AI App** with **Yoga, Remedies, Motivations**
+- **What do you love building most?**
+  > Web tools that feel magical and automate pain.
+
+- **What tech do you want to master next?**
+  > Rust, Next.js, and AI-agent stacks.
+
+- **Would you collaborate on open-source?**
+  > Absolutely! Hit me up on LinkedIn or GitHub Issues.
 
 ---
 
@@ -106,7 +128,11 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+  </picture>
 </p>
 
 ---
