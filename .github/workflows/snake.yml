@@ -1,15 +1,16 @@
 name: Generate GitHub Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate the snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: NIRMAL20062
