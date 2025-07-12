@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Code.+Create.+Conquer.;Dream+Big%2C+Build+Bigger.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
+![Visitors](https://komarev.com/ghpvc/?username=NIRMAL20062&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### ✨ About Me
@@ -42,6 +44,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIRMAL20062&theme=tokyonight" width="96%"/>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIRMAL20062&theme=dracula)
+
+[![GitHub Snake](https://github.com/NIRMAL20062/NIRMAL20062/blob/output/github-contribution-grid-snake.svg)](https://github.com/NIRMAL20062)
+
 ---
 
 ### 🧠 Currently Learning
@@ -73,14 +79,6 @@
 
 ---
 
-### ✨ GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIRMAL20062&theme=algolia&row=1&column=7" width="100%">
-</p>
-
----
-
 ### 🎡 Fun Corner
 
 > "I automate my routines, debug my future, and script my destiny." ✨
@@ -94,6 +92,23 @@
 </p>
 
 ---
+
+### 🏆 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NIRMAL20062&theme=algolia&row=1&column=7">
+</p>
+
+---
+
+<pre>
+ ███╗   ██╗██╗██████╗ ██████╗  █████╗ ██╗     
+ ████╗  ██║██║██╔══██╗██╔══██╗██╔══██╗██║     
+ ██╔██╗ ██║██║██████╔╝██████╔╝███████║██║     
+ ██║╚██╗██║██║██╔═══╝ ██╔═══╝ ██╔══██║██║     
+ ██║ ╚████║██║██║     ██║     ██║  ██║███████╗
+ ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝
+</pre>
 
 <p align="center">
   <b>Feel free to explore my repositories. I'm always up for ideas, collabs, and coffee chats ☕✨</b>
