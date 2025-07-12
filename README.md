@@ -10,12 +10,12 @@
 
 ---
 
-### ⚡ About Me
+### ✨ About Me
 
 - 🎓 I'm a CSE student at Sitare University.
 - 🚀 I love building AI, web apps, and working on open-source projects.
 - 📈 Currently learning: **Java**, **System Design**, and **Advanced DSA**
-
+- ☕ Fun Fact: I write more code than my compiler can digest.
 
 ---
 
@@ -27,6 +27,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -34,7 +35,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NIRMAL20062&show_icons=true&theme=radical&border_radius=10" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMAL20062&layout=compact&theme=radical&border_radius=10" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NIRMAL20062&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIRMAL20062&theme=tokyonight" width="96%"/>
 </p>
 
 ---
@@ -44,7 +49,8 @@
 - ✅ Data Structures & Algorithms (Java)
 - ✅ RESTful APIs with Flask
 - ✅ AI Content Systems for Creators
-- ✅ Version Control like a boss (Git + GitHub)
+- ✅ Advanced Git & GitHub Workflows
+- ✅ Deploying Apps on Render and Vercel
 
 ---
 
@@ -52,20 +58,45 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bardx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="kumar.nirmal2608@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kumar.nirmal2608@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/u/r2GUlBuyLZ/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
   <a href="https://github.com/NIRMAL20062"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-### 💡 Fun Fact
+### 💡 Highlight Reels
 
-> I write code to automate my life…  
-> and maybe someday… your dreams. ✨
+- 🔹 Built a **real-time AI Social Media Manager** (Content + Hashtag + Scheduler)
+- 🔹 Scraped e-commerce prices & built price comparison dashboard using **Flask + Chart.js**
+- 🔹 Currently developing **Wellness AI App** with **Yoga, Remedies, Motivations**
 
 ---
+
+### ✨ GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NIRMAL20062&theme=algolia&row=1&column=7" width="100%">
+</p>
+
+---
+
+### 🎡 Fun Corner
+
+> "I automate my routines, debug my future, and script my destiny." ✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+<p align="center">
+  <b>Feel free to explore my repositories. I'm always up for ideas, collabs, and coffee chats ☕✨</b>
+</p>
+
+---
