@@ -46,7 +46,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIRMAL20062&theme=dracula)
 
-![GitHub Snake](https://raw.githubusercontent.com/NIRMAL20062/NIRMAL20062/output/github-contribution-grid-snake.svg)
 
 ---
 
