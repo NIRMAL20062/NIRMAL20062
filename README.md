@@ -14,7 +14,7 @@
 
 ### ✨ About Me
 
-- 🎓 I'm a CSE student at Sitare University.
+- 🎓 I'm a CSE student at SRMU Lucknow.
 - 🚀 I love building AI, web apps, and working on open-source projects.
 - 📈 Currently learning: **Java**, **System Design**, and **Advanced DSA**
 - ☕ Fun Fact: I write more code than my compiler can digest.
