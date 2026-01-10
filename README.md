@@ -49,13 +49,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [📊 AI Social Media Manager](https://github.com/NIRMAL20062/ai-social-media-manager) | Generate posts, hashtags, comments with GPT. |
-| [🧘 Wellness AI App](https://github.com/NIRMAL20062/wellness-ai) | Suggests yoga, remedies, and motivation based on your symptoms. |
-| [💹 Price Comparison Tool](https://github.com/NIRMAL20062/price-tracker) | Scrapes live data and shows graph using Flask + Chart.js |
 
 ---
 
@@ -95,13 +88,6 @@
 
 ---
 
-### 📄 Download My Resume
-
-<p align="center">
-  <a href="https://github.com/NIRMAL20062/resume/raw/main/Nirmal_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-25A5F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume" />
-  </a>
-</p>
 
 ---
 
@@ -118,9 +104,7 @@
 
 ---
 
-### 🎡 Fun Corner
 
-> "I automate my routines, debug my future, and script my destiny." ✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
