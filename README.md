@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nirmal 👨‍💻</h1>
 
 <p align="center">
-  <i>First-year CSE student | Aspiring AI Innovator | Web Dev + ML Enthusiast</i>
+  <i>CSE student | Aspiring AI Innovator | Web Dev + ML Enthusiast</i>
 </p>
 
 <p align="center">
@@ -78,55 +78,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/r2GUlBuyLZ?theme=dark&font=Fira+Code&ext=contest" width="80%" />
 </p>
-
----
-
-### ⏱️ Weekly Dev Breakdown (via WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-
----
-
-### ❓ FAQ
-
-- **What do you love building most?**
-  > Web tools that feel magical and automate pain.
-
-- **What tech do you want to master next?**
-  > Rust, Next.js, and AI-agent stacks.
-
-- **Would you collaborate on open-source?**
-  > Absolutely! Hit me up on LinkedIn or GitHub Issues.
-
----
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-  </picture>
-</p>
-
----
-
-### 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIRMAL20062&theme=algolia&row=1&column=7">
-</p>
-
----
 
 <pre>
       N I R M A L - D E V - W A R R I O R     
