@@ -67,6 +67,9 @@
 
 ### 🧮 Live LeetCode Stats
 
+
+![snake gif](https://raw.githubusercontent.com/<NIRMAL20062>/<NIRMAL20062>/output/github-snake.svg)
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/r2GUlBuyLZ?theme=dark&font=Fira+Code&ext=contest" width="80%" />
 </p>
