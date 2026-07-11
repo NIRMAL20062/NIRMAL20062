@@ -51,10 +51,6 @@
   <img src="https://leetcard.jacoblin.cool/r2GUlBuyLZ?theme=dark&font=Fira+Code&ext=contest" width="80%" />
 </p>
 
-<pre align="center">
-      ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
-</pre>
-
 <p align="center">
   <b>Feel free to explore my repositories. I'm always up for ideas, collabs, and coffee chats ☕✨</b>
 </p>
