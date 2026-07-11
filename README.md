@@ -42,14 +42,6 @@
 
 ---
 
-### 🧠 Currently Learning
-- ✅ Data Structures & Algorithms (Java)
-- ✅ RESTful APIs with Flask
-- ✅ AI Content Systems for Creators
-- ✅ Advanced Git & GitHub Workflows
-- ✅ Deploying Apps on Render and Vercel
-
----
 
 ### 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/NIRMAL20062/NIRMAL20062/output/github-snake.svg)
