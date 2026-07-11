@@ -60,9 +60,13 @@
 </p>
 
 <pre align="center">
-      N I R M A L - D E V - W A R R I O R     
+      ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
 </pre>
 
 <p align="center">
   <b>Feel free to explore my repositories. I'm always up for ideas, collabs, and coffee chats ☕✨</b>
 </p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
